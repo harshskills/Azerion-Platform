@@ -1,0 +1,16 @@
+.active-link{
+    color: var(--cui-sidebar-nav-link-active-color, rgba(255, 255, 255, .87));
+    font-weight: 700!important;
+    background: var(--cui-sidebar-nav-link-active-bg, rgba(6, 6, 49, .5));
+}
+.active-nav{
+    color: var(--cui-sidebar-nav-link-active-color, rgba(255, 255, 255, .87));
+    font-weight: 700!important;
+    background: var(--cui-sidebar-nav-link-active-bg, rgba(6, 6, 49, .5));
+}
+
+
+
+
+
+
