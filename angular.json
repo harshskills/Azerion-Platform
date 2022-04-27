@@ -36,7 +36,7 @@
             ],
             "scripts": [
              "node_modules/@coreui/coreui/dist/js/coreui.bundle.min.js",
-             "node_modules/chart.js/dist/chart.min.js",
+             "node_modules/chart.js/dist/Chart.min.js",
              "node_modules/@coreui/chartjs/dist/js/coreui-chartjs.js",
              "node_modules/@coreui/utils/dist/coreui-utils.js",
              "node_modules/simplebar/dist/simplebar.min.js"
